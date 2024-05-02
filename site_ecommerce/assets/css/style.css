@@ -3,7 +3,7 @@
     text-decoration: none !important ;
     margin: 0;
     padding: 0;
-    color: black !important;
+    color: black ;
 
 }
 
@@ -12,6 +12,13 @@
     height: 50px;
     text-align: center;
 }
+
+#baniere  {
+    
+    background-color:#FFF455;
+}
+
+
 main{
     height: 100vh;
 }
@@ -22,9 +29,15 @@ main{
 }
  div p a i{
     width: auto;
-    height: 100px !important;
+    height: 150px !important;
 }
 #logo{
-    width: 150px;
+    width: 100px;
     height: auto;
+}
+footer{
+    background-color: #FFF455;
+}
+.navbar {
+    background-color:#FFF455;
 }
