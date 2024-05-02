@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none !important ;
+    margin: 0;
+    padding: 0;
+    color: black !important;
+
+}
+
+#baniere p {
+    width: auto;
+    height: 50px;
+    text-align: center;
+}
+main{
+    height: 100vh;
+}
+.paie{
+    height: 30px;
+    width: auto;
+   
+}
+ div p a i{
+    width: auto;
+    height: 100px !important;
+}
+#logo{
+    width: 150px;
+    height: auto;
+}
